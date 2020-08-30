@@ -2,4 +2,5 @@
 Hands-on on python .
 * Excerise1-handson on numpy
 * Excercise2-python bolts and nuts
+* Exercise3-pandas hands on 
 
